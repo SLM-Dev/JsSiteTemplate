@@ -40,3 +40,30 @@ footer .social>a:hover{
     opacity: 0.9;
     color: var(--secondary-color);
 }
+
+ /* .checklist >li i{
+    color: var(--secondary-color);
+}  */
+
+
+.bsicon{
+    color:purple;
+}
+
+.jsicon{
+    color:rgb(226,211,4);
+}
+
+.html5icon{
+    color:orangered;
+
+}
+
+.cssicon{
+    color:rgb(11,82,214);
+}
+
+main>.container{
+
+}
+    
